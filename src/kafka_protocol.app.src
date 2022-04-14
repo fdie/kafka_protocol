@@ -1,6 +1,6 @@
 {application,kafka_protocol,
              [{description,"Kafka protocol library for Erlang/Elixir"},
-              {vsn,"git"},
+              {vsn,"4.0.3+ale0"},
               {registered,[]},
               {applications,[kernel,stdlib,ssl,crc32cer]},
               {env,[]},
