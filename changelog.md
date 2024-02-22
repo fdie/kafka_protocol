@@ -1,3 +1,7 @@
+* 4.0.3-ale1
+  - Fix scram auth client final message.  (from 4.1.3)
+* 4.0.3-ale0
+   - Introduce a real application root supervisor
 * 4.0.3
    - Fix type spec for `hostname()` to include `inet:ip_address()`
 * 4.0.2
